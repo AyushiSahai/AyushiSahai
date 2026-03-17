@@ -10,7 +10,7 @@ Build scalable backend systems using Node.js, Express & AWS
 
 Design event-driven architectures using Lambda, SNS & DynamoDB
 
-Solved 500+ DSA problems across LeetCode & CodeChef
+Solved 500+ problems across LeetCode & CodeChef
 
 🔥 Featured Project
 
