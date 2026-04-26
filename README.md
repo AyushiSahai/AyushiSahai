@@ -21,7 +21,7 @@ I'm a final year B.Tech IT student who stumbled into cloud architecture and neve
 - ☁️ **AWS Certified Developer** — I don't just deploy to the cloud, I design for it
 - 🔧 Currently building with **Node.js · Express · AWS · DynamoDB · SNS**
 - 🧠 500+ problems solved on **LeetCode & CodeChef**
-- 🎯 Looking for **backend / cloud / full-stack roles** — open to full-time opportunities
+- 🎯 Looking for **backend / cloud roles** — open to full-time opportunities
 
 ---
 
