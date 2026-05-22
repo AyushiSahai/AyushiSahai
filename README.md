@@ -4,7 +4,7 @@
 
 ### AWS Certified Developer · Backend Engineer · Problem Solver
 
-*Final Year B.Tech IT · Building things that scale*
+*Recent Graduate B.Tech IT · Building things that scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-sahai-572b4a268)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayushisahai200)
