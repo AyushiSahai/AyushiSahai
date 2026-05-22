@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a final year B.Tech IT student who stumbled into cloud architecture and never looked back. I love building backend systems that are resilient, event-driven, and ready to scale — the kind that don't break at 3am.
+I'm a recent graduate B.Tech IT student who stumbled into cloud architecture and never looked back. I love building backend systems that are resilient, event-driven, and ready to scale — the kind that don't break at 3am.
 
 - ☁️ **AWS Certified Developer** — I don't just deploy to the cloud, I design for it
 - 🔧 Currently building with **Node.js · Express · AWS · DynamoDB · SNS**
