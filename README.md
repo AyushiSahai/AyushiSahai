@@ -4,7 +4,7 @@
 
 ### AWS Certified Developer · Backend Engineer · Problem Solver
 
-*Recent Graduate B.Tech IT · Building things that scale*
+*B.Tech IT Graduate · Building things that scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-sahai-572b4a268)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayushisahai200)
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a recent graduate B.Tech IT student who stumbled into cloud architecture and never looked back. I love building backend systems that are resilient, event-driven, and ready to scale — the kind that don't break at 3am.
+I'm a graduate B.Tech IT student who stumbled into cloud architecture and never looked back. I love building backend systems that are resilient, event-driven, and ready to scale — the kind that don't break at 3am.
 
 - ☁️ **AWS Certified Developer** — I don't just deploy to the cloud, I design for it
 - 🔧 Currently building with **Node.js · Express · AWS · DynamoDB · SNS**
